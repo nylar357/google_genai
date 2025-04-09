@@ -1,4 +1,4 @@
-# AI Terminal Assistant (`[Your Script Name]`) 🤖
+# AI Terminal Assistant (`[gemini.py]`) 🤖
 
 A simple command-line script to interact with an AI assistant directly from your terminal. Ask questions, generate code, get explanations, and more without leaving your workflow.
 
